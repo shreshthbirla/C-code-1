@@ -7,7 +7,7 @@ void main()
     scanf("%d",&a);
     if(a>10)
     {
-        printf("\n entered number is greater than 10\n");
+        printf("\n entered a number is greater than 10\n");
     }
     printf("Thank you!");
 }
